@@ -1,4 +1,4 @@
-# Pokeman-Classification
+# Pokemon-Classification
 
 This was done for CIS 550 Advanced Machine Learning for the Fall 2018 Semester.
 
