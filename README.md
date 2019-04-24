@@ -2,7 +2,7 @@
 
 This was done for CIS 550 Advanced Machine Learning for the Fall 2018 Semester.
 
-The project tries to classifiy a pokemon based off of its image presented to the algorithm.
+The project tries to classifiy a pokemon's type based off of its image presented to the algorithm.
 
 Pictures were scrapped from Pokemondb using the PokeScrapper.py file.
 
